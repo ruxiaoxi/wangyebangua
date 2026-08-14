@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ruxiaoxi.github.io/wangyebangua/sitemap.xml
